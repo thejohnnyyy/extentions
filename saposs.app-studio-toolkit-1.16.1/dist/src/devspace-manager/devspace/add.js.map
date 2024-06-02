@@ -1,0 +1,1 @@
+{"version":3,"file":"add.js","sourceRoot":"","sources":["../../../../src/devspace-manager/devspace/add.ts"],"names":[],"mappings":";;;AACA,sDAAqD;AAE9C,KAAK,UAAU,cAAc,CAAC,SAAwB;IAC3D,6DAA6D;IAC7D,MAAM,IAAI,OAAO,CAAC,CAAC,OAAO,EAAE,MAAM,EAAE,EAAE,CAAC,UAAU,CAAC,GAAG,EAAE,CAAC,OAAO,CAAC,IAAI,CAAC,EAAE,GAAG,CAAC,CAAC,CAAC;IAC7E,IAAA,uBAAW,GAAE,CAAC;AAChB,CAAC;AAJD,wCAIC"}

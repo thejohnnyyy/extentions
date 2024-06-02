@@ -1,0 +1,1 @@
+{"version":3,"file":"optional-require.js","sourceRoot":"","sources":["../../../src/utils/optional-require.ts"],"names":[],"mappings":";;;AAAA,qDAAiD;AACjD;;;;;;;;;;;;;GAaG;AACH,SAAgB,eAAe,CAC7B,UAAkB;IAElB,IAAI;QACF,gEAAgE;QAChE,OAAO,IAAA,8BAAa,EAAC,UAAU,CAAM,CAAC;KACvC;IAAC,OAAO,CAAC,EAAE;QACV,6EAA6E;QAC7E,wFAAwF;QACxF,OAAO,SAAS,CAAC;KAClB;AACH,CAAC;AAXD,0CAWC"}
